@@ -1,0 +1,8 @@
+.content-list{
+    background-color: #2ecc71;
+}
+.content h3, .content p{
+    color:white !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}

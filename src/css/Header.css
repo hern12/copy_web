@@ -1,0 +1,9 @@
+.header-box{
+    background-color: #34495e;
+}
+.nav-fixed-top{
+    position: fixed !important;
+    right: 0;
+    left: 0;
+    z-index: 1030!important;
+}
